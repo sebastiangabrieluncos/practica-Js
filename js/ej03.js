@@ -8,4 +8,4 @@ let nombre = 'Aluminé';
 const edad = 12;
 
 console.log(`Hola, me llamo ${nombre} y tengo ${edad} años`); 
-console.log( `${nombre}`) 
+console.log( `${nombre}`);
