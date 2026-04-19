@@ -11,4 +11,4 @@ let nombre ='Sebastián Gabriel Uncos';
 const edad = 36;
 
 console.log(nombre);
-console.log(edad)
+console.log(edad);
